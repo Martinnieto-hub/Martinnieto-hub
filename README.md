@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
-# ¡Hola! Soy Santiago Nieto 👋
+## 🎓 Perfil académico
 
-🎓 Estudiante de Ingeniería en Informática en la Universidad de Buenos Aires (UBA).
+Estudiante de Ingeniería en Informática en la **Universidad de Buenos Aires (UBA)**.
 
-💻 Programador Python certificado por Talento Tech.
+Certificado en Iniciación a la Programación con Python por **Talento Tech**.
 
 ## 👨‍💻 Sobre mí
 
@@ -27,23 +27,18 @@ Actualmente estoy enfocado en ampliar mis conocimientos y construir proyectos pe
 - Inteligencia artificial.
 - Programación de sistemas.
 
-## 🛠️ Tecnologías y herramientas
-
-- Python
-- Git
-- GitHub
-- Visual Studio Code
-
 ## 🎓 Formación y certificaciones
 
-- Ingeniería en Informática — Universidad de Buenos Aires (UBA).
-- Iniciación a la Programación con Python — Talento Tech (80 horas).
+- **Ingeniería en Informática** — Universidad de Buenos Aires (UBA).
+- **Iniciación a la Programación con Python** — Talento Tech (80 horas).
 
 ## 🚀 Proyectos
 
-Actualmente enfocado en desarrollar proyectos personales de software, aplicaciones web y videojuegos.
+Mi objetivo es desarrollar proyectos personales que reflejen mi aprendizaje y evolución como programador.
+
+Estoy especialmente interesado en crear aplicaciones, sitios web y videojuegos.
 
 ## 📫 Contacto
 
-- GitHub: [@Martinnieto-hub](https://github.com/Martinnieto-hub)
-- LinkedIn: Santiago Nieto
+- **GitHub:** [@Martinnieto-hub](https://github.com/Martinnieto-hub)
+- **LinkedIn:** [Santiago Nieto](https://www.linkedin.com/in/santiago-nieto-846b27395/)
