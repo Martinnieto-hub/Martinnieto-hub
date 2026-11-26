@@ -37,4 +37,4 @@ Actualmente enfocado en desarrollar proyectos personales de software, aplicacion
 ## 📫 Contacto
 
 - GitHub: [@Martinnieto-hub](https://github.com/Martinnieto-hub)
-- LinkedIn: Próximamente.
+- LinkedIn: Santiago Nieto
