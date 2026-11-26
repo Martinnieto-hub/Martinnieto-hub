@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./Banner.png" width="100%" alt="Santiago Nieto - Software Development">
+</div>
+
 # ¡Hola! Soy Santiago Nieto 👋
 
 🎓 Estudiante de Ingeniería en Informática en la Universidad de Buenos Aires (UBA).
